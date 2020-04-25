@@ -1,6 +1,5 @@
 //
 //  ToastViewController.swift
-//  Splash
 //
 //  Created by Vibhor Chaudhary on 20/04/20.
 //  Copyright © 2020 Vibhor Chaudhary. All rights reserved.
